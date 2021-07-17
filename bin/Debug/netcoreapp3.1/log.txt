@@ -1,0 +1,12 @@
+17-Jul-21-8:30:00 AM->Product_Admin:Display_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-8:30:08 AM->Product_Admin:Display_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-8:30:14 AM->Product_Admin:Display_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-8:31:34 AM->Product_Admin:Display_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-8:39:21 AM->Product_Admin:Insert_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-8:41:26 AM->Product_Admin:Insert_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-8:41:32 AM->Product_Admin:Insert_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-8:41:58 AM->Product_Admin:Insert_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-8:44:04 AM->Product_Admin:Insert_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-9:28:15 AM->Product_Admin:Insert_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-9:28:41 AM->Product_Admin:Insert_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
+17-Jul-21-9:31:33 AM->Product_Admin:Insert_Product(error)-The type initializer for 'MySql.Data.MySqlClient.Replication.ReplicationManager' threw an exception.
